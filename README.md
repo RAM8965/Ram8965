@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ram8965" alt="ram8965" /></a> </p>
 
-- 🔭 I’m currently working on [Online BookExchnager](https://github.com/RAM8965/BookExchanger)
-
 - 📫 How to reach me **ramm59128@gmail.com (mobile:6263164883)**
 
 <h3 align="left">Connect with me:</h3>
